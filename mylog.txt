@@ -1,0 +1,2 @@
+thg 9 21, 2023 12:59:10 CH polypro.UI.MainJFrame log
+INFO: Thông báo ghi log vào tệp tin.

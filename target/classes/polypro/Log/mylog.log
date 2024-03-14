@@ -1,0 +1,18 @@
+2024-03-14 14:56:20 INFO  BCryptPasswordHashing:19 - Đã mã hóa mật khẩu thành công
+2024-03-14 14:58:04 INFO  MainJFrame:59 - Vai trò: Nhân viên | Người dùng: tridung Đăng nhập thành công
+2024-03-14 14:58:07 INFO  ChuyenDeJFrame:46 - Người dụng đã mở chuyên đề
+2024-03-14 14:58:33 INFO  KhoaHocJFrame:52 - Người dụng đã mở khóa học
+2024-03-14 14:58:37 INFO  ThongKeJFrame:67 - Người dụng đã mở thống kê
+2024-03-14 14:58:45 INFO  MainJFrame:87 - Người dùng tridung ấn kết thúc
+2024-03-14 15:16:18 INFO  MainJFrame:59 - Vai trò: Nhân viên | Người dùng: tridung Đăng nhập thành công
+2024-03-14 15:16:20 INFO  ThongKeJFrame:67 - Người dụng đã mở thống kê
+2024-03-14 15:18:04 INFO  MainJFrame:87 - Người dùng tridung ấn kết thúc
+2024-03-14 15:20:54 INFO  MainJFrame:59 - Vai trò: Nhân viên | Người dùng: tridung Đăng nhập thành công
+2024-03-14 15:21:03 INFO  ThongKeJFrame:67 - Người dụng đã mở thống kê
+2024-03-14 15:21:08 INFO  MainJFrame:87 - Người dùng tridung ấn kết thúc
+2024-03-14 15:26:11 INFO  MainJFrame:59 - Vai trò: Nhân viên | Người dùng: tridung Đăng nhập thành công
+2024-03-14 15:26:12 INFO  ThongKeJFrame:67 - Người dụng đã mở thống kê
+2024-03-14 15:26:18 INFO  MainJFrame:87 - Người dùng tridung ấn kết thúc
+2024-03-14 15:29:48 INFO  MainJFrame:59 - Vai trò: Nhân viên | Người dùng: tridung Đăng nhập thành công
+2024-03-14 15:29:50 INFO  ThongKeJFrame:67 - Người dụng đã mở thống kê
+2024-03-14 15:29:55 INFO  MainJFrame:87 - Người dùng tridung ấn kết thúc
